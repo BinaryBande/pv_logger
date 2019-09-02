@@ -15,6 +15,8 @@ PV-Anlagen.
   - LoRa kompatibilität für erhöhte Reichweite zur Datenübertragung
   - Messung der Panelleistung
   - Messung des Energieverbrauchs
+  - Datenaufnahme über NODERED
+  - Datenvisualisierung mit hilfe von Grafana und InfluxDB
 # Technik
 ### Verwendete Hardware
 - NodeMCU Board mit ESP8266
